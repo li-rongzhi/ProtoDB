@@ -42,7 +42,7 @@ bin/
 .DS_Store
 
 # IDEA files
-/.idea/
+.idea/
 /out/
 /*.iml
 
