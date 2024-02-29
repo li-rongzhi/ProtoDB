@@ -20,5 +20,5 @@ Todo:
 - [ ] Add documentation
 
 ### Demo Showcase:
-![img.png](../docs/images/img.png)
+![img.png](docs/images/img.png)
 
